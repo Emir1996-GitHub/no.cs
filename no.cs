@@ -10,7 +10,7 @@ namespace no{
     Console.ReadLine();
     string no = Console.ReadLine();
     if (no != "no"){
-      Console.WriteLine((6*3-6+3+16+1943))
+      Console.WriteLine((6*3-6+3+16+1943) + "nono nono nononono");
     }
   } 
  }
